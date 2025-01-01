@@ -1,0 +1,1 @@
+ C:\\Users\\infom\\OneDrive\\Pictures\\Flutter\ Series\\day_1\\dynamic_theme\\.dart_tool\\flutter_build\\a716a6f3cc088b7b97a9a203d3ad8377\\native_assets.yaml: 
